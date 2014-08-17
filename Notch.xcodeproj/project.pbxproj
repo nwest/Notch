@@ -10,6 +10,7 @@
 		E707507D19A11172007F0DEB /* Quick.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E707507519A11150007F0DEB /* Quick.framework */; };
 		E707507E19A11180007F0DEB /* Nimble.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E707506919A11150007F0DEB /* Nimble.framework */; };
 		E707508019A1121A007F0DEB /* AppDelegateSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = E707507F19A1121A007F0DEB /* AppDelegateSpec.swift */; };
+		E707508719A120F7007F0DEB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73CB30F19955CBB008E77AA /* AppDelegate.swift */; };
 		E73CB31019955CBB008E77AA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73CB30F19955CBB008E77AA /* AppDelegate.swift */; };
 		E73CB31319955CBB008E77AA /* Notch.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E73CB31119955CBB008E77AA /* Notch.xcdatamodeld */; };
 		E73CB31519955CBB008E77AA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73CB31419955CBB008E77AA /* ViewController.swift */; };
@@ -376,6 +377,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E707508719A120F7007F0DEB /* AppDelegate.swift in Sources */,
 				E707508019A1121A007F0DEB /* AppDelegateSpec.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
